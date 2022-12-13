@@ -1,0 +1,7 @@
+{
+    "API_PORT": 4001,
+    "MYSQL": "jllgshllWEUJHGHYJkjsfjds90",
+    "JWT_KEY": "TJVA95OrM7E2cBab30RMHTJVA955OrM7E2cBab30RMHrHDcEfxjoYZge5FONFh7HgsefQrHDcEfxjoY444GsefGGGFZPRGKLDgeFONFsefsefh7HgQ",
+    "TOKEN_KEY": "eyJzdWIiOiIxMjM0NT5Y3ODeyJzdWIiOiIxMjM0NT4Y53ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRyd5WV9kwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWV9",
+    "MONGO_URI": "mongodb+srv://yasine:yasine@cluster0.lqds1ty.mongodb.net/mmc"
+}
